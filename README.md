@@ -1,16 +1,13 @@
-## Hi there 👋
+# Nirmalya Lenka
 
-<!--
-**NirmalyaLenka/Nirmalyalenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student | Embedded Systems | Electronics | IoT
 
-Here are some ideas to get you started:
+I specialize in developing embedded and IoT solutions that combine
+electronics hardware with efficient software. My work includes
+sensor integration, microcontroller programming, and low-level
+system design across multiple languages and platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages  : C, C++, Python, Java, Rust
+Focus      : Embedded Systems, Electronics, IoT, Sensor Integration
+Platform   : ESP32, Arduino
+Currently  : Building open source embedded projects
