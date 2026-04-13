@@ -1,15 +1,8 @@
 ### Nirmalya Lenka
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FF41&width=600&lines=Nirmalya+Lenka+%7C+Embedded+Engineer;Flashing+firmware+since+day+one...;ESP32+%7C+Arduino+%7C+Rust+%7C+C%2B%2B;IoT+%7C+Sensors+%7C+Open+Source;Currently+building+something+cool+%F0%9F%94%A7)
-
-
-```
-Initializing profile...
-> Loading skills.............. [OK]
-> Connecting to hardware....... [OK]
-> Flashing firmware............ [OK]
-> Profile ready.
-```
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
 
