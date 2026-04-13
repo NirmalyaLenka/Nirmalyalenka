@@ -1,13 +1,72 @@
 # Nirmalya Lenka
 
-Student | Embedded Systems | Electronics | IoT
+```
+Initializing profile...
+> Loading skills.............. [OK]
+> Connecting to hardware....... [OK]
+> Flashing firmware............ [OK]
+> Profile ready.
+```
 
-I specialize in developing embedded and IoT solutions that combine
-electronics hardware with efficient software. My work includes
-sensor integration, microcontroller programming, and low-level
-system design across multiple languages and platforms.
+---
 
-Languages  : C, C++, Python, Java, Rust
-Focus      : Embedded Systems, Electronics, IoT, Sensor Integration
-Platform   : ESP32, Arduino
-Currently  : Building open source embedded projects
+### About Me
+
+I am a student developer with a deep interest in the intersection of
+electronics and software. I spend most of my time working with
+microcontrollers, sensors, and low-level systems — turning circuit
+diagrams into working, real-world devices.
+
+I believe good embedded code is invisible. The hardware just works.
+
+---
+
+### What I Work With
+
+```
+Languages     C  |  C++  |  Python  |  Java  |  Rust
+Platform      ESP32  |  Arduino
+Domain        Embedded Systems  |  Electronics  |  IoT
+```
+
+---
+
+### Currently
+
+- Building sensor-based IoT systems with ESP32
+- Deepening knowledge in low-level C and Rust for embedded targets
+- Documenting projects so others can learn and build from them
+
+---
+
+### Approach
+
+I do not just write code. I understand the hardware it runs on.
+Every project I publish is documented, wired, tested, and explained —
+from the circuit to the serial monitor output.
+
+---
+
+### GitHub Stats
+
+![Nirmalya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### Connect
+
+- GitHub: github.com/YOUR_USERNAME
+
+---
+
+```
+while (true) {
+    learn();
+    build();
+    document();
+    share();
+}
+```
+
