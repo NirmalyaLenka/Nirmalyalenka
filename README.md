@@ -1,5 +1,6 @@
 ### Nirmalya Lenka
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C40&center=true&width=600&lines=Nirmalya+Lenka;Embedded+Systems+Developer;ESP32+%7C+Arduino+%7C+IoT;C+%7C+C%2B%2B+%7C+Python+%7C+Rust+%7C+Java;Open+Source+Builder+%F0%9F%9B%A0%EF%B8%8F)
 ```
 Initializing profile...
 > Loading skills.............. [OK]
