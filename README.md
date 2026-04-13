@@ -1,4 +1,4 @@
-# Nirmalya Lenka
+### Nirmalya Lenka
 
 ```
 Initializing profile...
@@ -49,15 +49,15 @@ from the circuit to the serial monitor output.
 
 ### GitHub Stats
 
-![Nirmalya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Nirmalya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirmalyaLenka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalyaLenka&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### Connect
 
-- GitHub: github.com/YOUR_USERNAME
+- GitHub: github.com/NirmalyaLenka
 
 ---
 
@@ -69,4 +69,5 @@ while (true) {
     share();
 }
 ```
+
 
