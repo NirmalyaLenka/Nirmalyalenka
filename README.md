@@ -4,8 +4,10 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
----
 
+---![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 ### About Me
 
 I am a student developer with a deep interest in the intersection of
