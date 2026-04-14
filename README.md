@@ -10,7 +10,7 @@
 
 ---
 
-## ⚡ Who am I — in 10 seconds
+## ⚡ Who am I ?
 
 ```
 🧑‍💻  Nirmalya Lenka          →  Embedded Systems Developer
