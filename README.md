@@ -113,7 +113,9 @@ DSA   →  arrays · linked lists · trees · graphs · stacks · queues · hash
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=NirmalyaLenka&color=475569&style=flat-square&label=views" />
 </div>
-<img width="348" height="333" alt="image" src="https://github.com/user-attachments/assets/424df109-d3f2-46e2-8e76-8302e0fbc9b3" />
+<div align="center">
+<div align="right"><img width="348" height="333" alt="image" src="https://github.com/user-attachments/assets/424df109-d3f2-46e2-8e76-8302e0fbc9b3" />
+<div align="center">
 <img width="360" height="300" alt="image" src="https://github.com/user-attachments/assets/654a96b7-10fd-42e3-a244-6beb79916190" />
 
 
