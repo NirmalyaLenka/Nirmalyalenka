@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=160&section=header&text=Nirmalya%20Lenka&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%26%20IoT%20Engineer&descSize=16&descAlignY=58&descColor=8b949e" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=160&section=header&text=Nirmalya%20Lenka&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%26%20IoT%20Engineer&descSize=16&descAlignY=58&descColor=8b949e" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=Embedded+Systems+%7C+IoT+%7C+Sensor+Integration;C+%7C+C%2B%2B+%7C+Rust+%7C+Python+%7C+Java;ESP32+%7C+Arduino+%7C+Raspberry+Pi+%7C+Linux;Open+to+Remote+Collaboration+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
@@ -103,7 +103,7 @@ working across bare-metal C to high-level Python, and everything in between.
 
 <div align="center">
 
-[![Nirmalya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NirmalyaLenka&bg_color=ffffff&color=57606a&line=0969da&point=0d1117&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nirmalya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NirmalyaLenka&bg_color=ffffff&color=36454F&line=0969da&point=0d1117&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
