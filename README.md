@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Nirmalya%20Lenka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%26%20IoT%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=58&descColor=8b949e" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Nirmalya%20Lenka&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%26%20IoT%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=58&descColor=8b949e" width="100%" />
 </div>
 
 <div align="center">
@@ -89,13 +89,13 @@ working across bare-metal C to high-level Python, React, and everything in betwe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NirmalyaLenka&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalyaLenka&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=NirmalyaLenka&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalyaLenka&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalyaLenka&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<img src="https://streak-stats.demolab.com?user=NirmalyaLenka&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
 </div>
 
@@ -131,7 +131,11 @@ working across bare-metal C to high-level Python, React, and everything in betwe
 
 *Odisha, India &nbsp;·&nbsp; Open to remote collaboration*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
 
-</div>
+</div> 
+
+<div align="center"> 
+  
+<img width="372" height="297" alt="image" src="https://github.com/user-attachments/assets/6fef5e15-3f54-4633-8131-3dfab0baef7e" />
 
