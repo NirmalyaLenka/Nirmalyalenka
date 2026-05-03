@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Nirmalya%20Lenka&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%26%20IoT%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=58&descColor=8b949e" width="100%"/>
-</div>
 
-<div align="center">
+# 👋 Nirmalya Lenka
+
+### Embedded Systems & IoT · Full Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Embedded+Systems+%7C+IoT+%7C+Sensor+Integration;C+%7C+C%2B%2B+%7C+Rust+%7C+Python+%7C+Go;ESP32+%7C+Arduino+%7C+Raspberry+Pi+%7C+Linux;React+%7C+Node.js+%7C+MongoDB+%7C+Firebase;Open+to+Remote+Collaboration+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
@@ -128,12 +128,8 @@ working across bare-metal C to high-level Python, React, and everything in betwe
 ---
 
 <div align="center">
-
-*Odisha, India &nbsp;·&nbsp; Open to remote collaboration*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
-
-</div> 
+<sub>📍 Odisha, India &nbsp;·&nbsp; Open to remote collaboration</sub>
+</div>
 
 <div align="center"> 
   
