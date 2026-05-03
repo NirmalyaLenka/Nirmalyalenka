@@ -1,109 +1,127 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Nirmalya%20Lenka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%26%20IoT%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=58&descColor=8b949e" width="100%" />
+</div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=160&section=header&text=Nirmalya%20Lenka&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%26%20IoT%20Engineer&descSize=16&descAlignY=58&descColor=8b949e" width="100%" />
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=Embedded+Systems+%7C+IoT+%7C+Sensor+Integration;C+%7C+C%2B%2B+%7C+Rust+%7C+Python+%7C+Java;ESP32+%7C+Arduino+%7C+Raspberry+Pi+%7C+Linux;Open+to+Remote+Collaboration+%F0%9F%8C%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Embedded+Systems+%7C+IoT+%7C+Sensor+Integration;C+%7C+C%2B%2B+%7C+Rust+%7C+Python+%7C+Go;ESP32+%7C+Arduino+%7C+Raspberry+Pi+%7C+Linux;React+%7C+Node.js+%7C+MongoDB+%7C+Firebase;Open+to+Remote+Collaboration+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/NirmalyaLenka?style=flat&color=0969da&labelColor=f6f8fa&label=followers)](https://github.com/NirmalyaLenka)
-[![Profile Views](https://komarev.com/ghpvc/?username=NirmalyaLenka&style=flat&color=0969da&label=profile+views)](https://github.com/NirmalyaLenka)
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/NirmalyaLenka?style=flat&color=58a6ff&labelColor=161b22&label=followers)](https://github.com/NirmalyaLenka)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=NirmalyaLenka&style=flat&color=58a6ff&label=profile+views)](https://github.com/NirmalyaLenka)
 
 </div>
 
 ---
 
-### About me
+### 👤 About Me
 
-Building things that bridge software and the physical world.
-Focused on embedded systems, IoT architectures, and real-time sensor integration —
-working across bare-metal C to high-level Python, and everything in between.
+Building things that bridge software and the physical world.  
+Focused on embedded systems, IoT architectures, and real-time sensor integration —  
+working across bare-metal C to high-level Python, React, and everything in between.
 
 - 🔧 **Embedded Systems** — bare-metal, RTOS, microcontroller firmware
 - 📡 **IoT** — MQTT, Wi-Fi, BLE, edge computing
 - 🔬 **Sensor Integration** — I2C, SPI, UART communication stacks
+- 🌐 **Web & Backend** — React, Node.js, MongoDB, Firebase
 - 📍 **Odisha, India** — open to remote collaboration
 
 ---
 
-### Languages & Tools
+### 🛠️ Languages & Tools
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,python,java,css,arduino,raspberrypi,linux&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,rust,python,java,js,go&theme=dark)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,jest,arduino,raspberrypi,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### Tech Stack
+### 📊 Tech Stack
 
 <table>
 <tr>
 <td><b>Languages</b></td>
-<td>
-
-`C` &nbsp; `C++` &nbsp; `Rust` &nbsp; `Python` &nbsp; `Java` &nbsp; `CSS`
-
-</td>
+<td><code>C</code> &nbsp; <code>C++</code> &nbsp; <code>Rust</code> &nbsp; <code>Python</code> &nbsp; <code>Java</code> &nbsp; <code>JavaScript</code> &nbsp; <code>Go</code></td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td><code>React</code> &nbsp; <code>CSS</code></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><code>Node.js</code> &nbsp; <code>Express</code></td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td><code>MongoDB</code> &nbsp; <code>Firebase</code></td>
+</tr>
+<tr>
+<td><b>Testing</b></td>
+<td><code>Jest</code></td>
 </tr>
 <tr>
 <td><b>Platforms</b></td>
-<td>
-
-`ESP32` &nbsp; `Arduino` &nbsp; `Raspberry Pi` &nbsp; `Linux`
-
-</td>
+<td><code>ESP32</code> &nbsp; <code>Arduino</code> &nbsp; <code>Raspberry Pi</code> &nbsp; <code>Linux</code></td>
 </tr>
 <tr>
 <td><b>Protocols</b></td>
-<td>
-
-`I2C` &nbsp; `SPI` &nbsp; `UART` &nbsp; `MQTT` &nbsp; `Wi-Fi` &nbsp; `BLE`
-
-</td>
+<td><code>I2C</code> &nbsp; <code>SPI</code> &nbsp; <code>UART</code> &nbsp; <code>MQTT</code> &nbsp; <code>Wi-Fi</code> &nbsp; <code>BLE</code></td>
 </tr>
 <tr>
 <td><b>CS Core</b></td>
-<td>
-
-`DAA` &nbsp; `DBMS` &nbsp; `Data Structures`
-
-</td>
+<td><code>DAA</code> &nbsp; <code>DBMS</code> &nbsp; <code>Data Structures</code></td>
 </tr>
 <tr>
 <td><b>Other</b></td>
-<td>
-
-`VLSI` &nbsp; `Data Analytics` &nbsp; `AI / ML`
-
-</td>
+<td><code>VLSI</code> &nbsp; <code>Data Analytics</code> &nbsp; <code>AI / ML</code></td>
 </tr>
 </table>
 
 ---
 
-### GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NirmalyaLenka&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0d1117&text_color=57606a&icon_color=0969da&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NirmalyaLenka&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalyaLenka&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0d1117&text_color=57606a&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalyaLenka&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalyaLenka&hide_border=true&background=ffffff&stroke=e1e4e8&ring=0969da&fire=0969da&currStreakLabel=0969da" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalyaLenka&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
 </div>
 
 ---
 
-### Activity Graph
+### 🗂️ Activity Graph
 
 <div align="center">
 
-[![Nirmalya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NirmalyaLenka&bg_color=ffffff&color=36454F&line=0969da&point=0d1117&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nirmalya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NirmalyaLenka&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f2d4e&hide_border=true&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 📬 Contact
+
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919692005585)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carmodbhai@gmail.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apex_nirmalya46/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmod-bhai-3b358b358/)
 
 </div>
 
@@ -113,7 +131,7 @@ working across bare-metal C to high-level Python, and everything in between.
 
 *Odisha, India &nbsp;·&nbsp; Open to remote collaboration*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
 
 </div>
 
