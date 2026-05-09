@@ -2,9 +2,9 @@
 
 # 👋 Nirmalya Lenka
 
-### Embedded Systems & IoT · Full Stack Developer
+### Embedded Systems & IoT · Full Stack · ML/AI Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Embedded+Systems+%7C+IoT+%7C+Sensor+Integration;C+%7C+C%2B%2B+%7C+Rust+%7C+Python+%7C+Go;ESP32+%7C+Arduino+%7C+Raspberry+Pi+%7C+Linux;React+%7C+Node.js+%7C+MongoDB+%7C+Firebase;Open+to+Remote+Collaboration+%F0%9F%8C%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+%7C+IoT+%7C+Sensor+Integration;C+%7C+C%2B%2B+%7C+Rust+%7C+Python+%7C+Go;ESP32+%7C+Arduino+%7C+Raspberry+Pi+%7C+Linux;Machine+Learning+%7C+TensorFlow+%7C+scikit-learn;React+%7C+Node.js+%7C+MongoDB+%7C+Firebase;Open+to+Remote+Collaboration+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,12 +19,13 @@
 ### 👤 About Me
 
 Building things that bridge software and the physical world.  
-Focused on embedded systems, IoT architectures, and real-time sensor integration —  
+Focused on embedded systems, IoT architectures, real-time sensor integration, and machine learning —  
 working across bare-metal C to high-level Python, React, and everything in between.
 
 - 🔧 **Embedded Systems** — bare-metal, RTOS, microcontroller firmware
 - 📡 **IoT** — MQTT, Wi-Fi, BLE, edge computing
 - 🔬 **Sensor Integration** — I2C, SPI, UART communication stacks
+- 🤖 **Machine Learning** — TensorFlow, PyTorch, scikit-learn, edge AI/TinyML
 - 🌐 **Web & Backend** — React, Node.js, MongoDB, Firebase
 - 📍 **Odisha, India** — open to remote collaboration
 
@@ -36,7 +37,9 @@ working across bare-metal C to high-level Python, React, and everything in betwe
 
 [![Skills](https://skillicons.dev/icons?i=c,cpp,rust,python,java,js,go&theme=dark)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,jest,arduino,raspberrypi,linux&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,react,nodejs,mongodb,firebase&theme=dark)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,docker,jest&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -48,6 +51,10 @@ working across bare-metal C to high-level Python, React, and everything in betwe
 <tr>
 <td><b>Languages</b></td>
 <td><code>C</code> &nbsp; <code>C++</code> &nbsp; <code>Rust</code> &nbsp; <code>Python</code> &nbsp; <code>Java</code> &nbsp; <code>JavaScript</code> &nbsp; <code>Go</code></td>
+</tr>
+<tr>
+<td><b>ML / AI</b></td>
+<td><code>TensorFlow</code> &nbsp; <code>PyTorch</code> &nbsp; <code>scikit-learn</code> &nbsp; <code>Pandas</code> &nbsp; <code>NumPy</code> &nbsp; <code>TinyML</code> &nbsp; <code>OpenCV</code></td>
 </tr>
 <tr>
 <td><b>Frontend</b></td>
@@ -85,23 +92,63 @@ working across bare-metal C to high-level Python, React, and everything in betwe
 
 ---
 
+### 💻 Language Usage Across My Repos
+
+> Approximate distribution based on my public repositories
+
+| Language | Usage | Bar |
+|----------|-------|-----|
+| C / C++ | 35% | `████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| Python | 30% | `█████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| JavaScript | 15% | `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| Rust | 10% | `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| Go | 5% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| Other | 5% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+
+> 💡 **Tip:** For a live auto-updating version of this, go to your GitHub repo settings and GitHub's built-in **Languages** bar will appear automatically on your repo pages. For the profile README specifically, the `github-readme-stats` top-langs card (below) pulls this live.
+
+---
+
 ### 📈 GitHub Stats
+
+> ⚠️ **Note on stats widgets:** The contrib graph updates every **4–6 hours** and the stats card updates every **2–3 days** — this is GitHub's caching policy, not a bug. Your real-time stats are always visible on your [GitHub profile page](https://github.com/NirmalyaLenka).
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=NirmalyaLenka&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<!-- Stats Card: shows total stars, commits, PRs, issues, contribs -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=NirmalyaLenka&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalyaLenka&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<!-- Top Langs Card: live language breakdown from your repos -->
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalyaLenka&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
-<br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=NirmalyaLenka&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+<div align="center">
+
+<!-- Streak Stats: most reliable for current/longest streak -->
+<img src="https://streak-stats.demolab.com?user=NirmalyaLenka&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&mode=weekly" />
 
 </div>
 
 ---
 
+### 🤖 Machine Learning Focus
+
+```
+ Computer Vision      ████████████░░░░░░  65%
+ Edge AI / TinyML     ████████░░░░░░░░░░  45%
+ Time-Series (IoT)    ██████████████░░░░  75%
+ NLP / Text           █████░░░░░░░░░░░░░  28%
+ Reinforcement Lrn    ████░░░░░░░░░░░░░░  22%
+```
+
+Tools: `TensorFlow Lite` · `scikit-learn` · `OpenCV` · `Pandas` · `NumPy` · `Matplotlib` · `Jupyter`
+
+---
+
 ### 🗂️ Activity Graph
+
+> Updates every 4–6 hours after a contribution push
 
 <div align="center">
 
@@ -134,4 +181,6 @@ working across bare-metal C to high-level Python, React, and everything in betwe
 <div align="center"> 
   
 <img width="372" height="297" alt="image" src="https://github.com/user-attachments/assets/6fef5e15-3f54-4633-8131-3dfab0baef7e" />
+
+</div>
 
