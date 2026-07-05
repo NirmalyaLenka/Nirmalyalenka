@@ -4,13 +4,13 @@
 
 ### Embedded Systems & IoT · Full Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Embedded+Systems+%7C+IoT+%7C+Sensor+Integration;C+%7C+C%2B%2B+%7C+Rust+%7C+Python+%7C+Go;ESP32+%7C+Arduino+%7C+Raspberry+Pi+%7C+Linux;React+%7C+Node.js+%7C+MongoDB+%7C+Firebase;Open+to+Remote+Collaboration+%F0%9F%8C%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=FF2975&center=true&vCenter=true&width=520&lines=Embedded+Systems+%7C+IoT+%7C+Sensor+Integration;C+%7C+C%2B%2B+%7C+Rust+%7C+Python+%7C+Go;ESP32+%7C+Arduino+%7C+Raspberry+Pi+%7C+Linux;React+%7C+Node.js+%7C+MongoDB+%7C+Firebase;Open+to+Remote+Collaboration+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/NirmalyaLenka?style=flat&color=58a6ff&labelColor=161b22&label=followers)](https://github.com/NirmalyaLenka)
+[![GitHub followers](https://img.shields.io/github/followers/NirmalyaLenka?style=flat&color=00D9FF&labelColor=1A1A2E&label=followers)](https://github.com/NirmalyaLenka)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=NirmalyaLenka&style=flat&color=58a6ff&label=profile+views)](https://github.com/NirmalyaLenka)
+[![Profile Views](https://komarev.com/ghpvc/?username=NirmalyaLenka&style=flat&color=00D9FF&label=profile+views)](https://github.com/NirmalyaLenka)
 
 </div>
 
@@ -38,7 +38,7 @@ working across bare-metal C to high-level Python, React, and everything in betwe
 
 [![Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,jest,arduino,raspberrypi,linux&theme=dark)](https://skillicons.dev)
 
-[![Blynk](https://img.shields.io/badge/Blynk-00A5E0?style=for-the-badge&logo=blynk&logoColor=white)](https://blynk.io)
+[![Blynk](https://img.shields.io/badge/Blynk-FF2975?style=for-the-badge&logo=blynk&logoColor=white)](https://blynk.io)
 
 </div>
 
@@ -162,13 +162,13 @@ A beginner-friendly repo untangling the Pi 3 vs 4 vs 5 camera differences, paire
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=NirmalyaLenka&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=NirmalyaLenka&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalyaLenka&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalyaLenka&layout=compact&theme=synthwave&hide_border=true&langs_count=6" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=NirmalyaLenka&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+<img src="https://streak-stats.demolab.com?user=NirmalyaLenka&hide_border=true&background=1A1A2E&stroke=2D2B55&ring=FF2975&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=BB9AF7&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=BB9AF7" />
 
 </div>
 
@@ -178,7 +178,7 @@ A beginner-friendly repo untangling the Pi 3 vs 4 vs 5 camera differences, paire
 
 <div align="center">
 
-[![Nirmalya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NirmalyaLenka&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f2d4e&hide_border=true&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nirmalya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NirmalyaLenka&bg_color=1a1a2e&color=ff2975&line=00d9ff&point=ff2975&area=true&area_color=2d2b55&hide_border=true&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
