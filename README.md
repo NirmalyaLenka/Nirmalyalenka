@@ -1,7 +1,3 @@
-
-4.71 KB •137 lines
-•
-Formatting may be inconsistent from source
 <div align="center">
 
 # 👋 Nirmalya Lenka
@@ -27,7 +23,7 @@ Focused on embedded systems, IoT architectures, and real-time sensor integration
 working across bare-metal C to high-level Python, React, and everything in between.
 
 - 🔧 **Embedded Systems** — bare-metal, RTOS, microcontroller firmware
-- 📡 **IoT** — MQTT, Wi-Fi, BLE, edge computing
+- 📡 **IoT** — MQTT, Wi-Fi, BLE, Blynk, edge computing
 - 🔬 **Sensor Integration** — I2C, SPI, UART communication stacks
 - 🌐 **Web & Backend** — React, Node.js, MongoDB, Firebase
 - 📍 **Odisha, India** — open to remote collaboration
@@ -41,6 +37,8 @@ working across bare-metal C to high-level Python, React, and everything in betwe
 [![Skills](https://skillicons.dev/icons?i=c,cpp,rust,python,java,js,go&theme=dark)](https://skillicons.dev)
 
 [![Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,jest,arduino,raspberrypi,linux&theme=dark)](https://skillicons.dev)
+
+[![Blynk](https://img.shields.io/badge/Blynk-00A5E0?style=for-the-badge&logo=blynk&logoColor=white)](https://blynk.io)
 
 </div>
 
@@ -78,6 +76,10 @@ working across bare-metal C to high-level Python, React, and everything in betwe
 <td><code>I2C</code> &nbsp; <code>SPI</code> &nbsp; <code>UART</code> &nbsp; <code>MQTT</code> &nbsp; <code>Wi-Fi</code> &nbsp; <code>BLE</code></td>
 </tr>
 <tr>
+<td><b>IoT Platforms</b></td>
+<td><code>Blynk</code></td>
+</tr>
+<tr>
 <td><b>CS Core</b></td>
 <td><code>DAA</code> &nbsp; <code>DBMS</code> &nbsp; <code>Data Structures</code></td>
 </tr>
@@ -86,6 +88,73 @@ working across bare-metal C to high-level Python, React, and everything in betwe
 <td><code>VLSI</code> &nbsp; <code>Data Analytics</code> &nbsp; <code>AI / ML</code></td>
 </tr>
 </table>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛰️ Wireless Solar Farm Monitor**  
+Two ESP32s talking over ESP-NOW, five sensors deep, 11 OLED screens you can flip through like a control-room dashboard — no Wi-Fi, no cloud, just raw peer-to-peer telemetry.
+
+</td>
+<td width="50%" valign="top">
+
+**🔐 RFID Access Control + OLED**  
+MFRC522 reader gatekeeping an L298N-driven motor, with an SSD1306 OLED that roasts or welcomes you in Hindi/English depending on whose card you scan.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⏰ ESP8266 Smart Clock, EMO Edition**  
+Started as a clock, grew animated EMO-robot eyes, picked up live weather from OpenWeatherMap, and now pings notifications pushed from a Python/Termux script on Android.
+
+</td>
+<td width="50%" valign="top">
+
+**🏠 Layered Home Security System**  
+IR + TTP223 touch + MQ-2 gas + magnetic door sensor, all fused into one LCD-driven system, built iteratively sensor by sensor until it could watch an entire room.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🩹 Smart Pressure-Ulcer Prevention**  
+The most architecturally ambitious build yet — FPGA edge-AI inference, STM32H7 running FreeRTOS, wrapped in an animated web landing page.
+
+</td>
+<td width="50%" valign="top">
+
+**🖨️ Parametric Keychain Generator**  
+CadQuery scripts that turn a name into a 3D-printable STL — custom nameplates and Transformer-styled keychains, generated, not modeled by hand.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🚦 Traffic Light Systems, Every Which Way**  
+Four-road sequential logic, a 12-LED grid variant, button-cycled and switch-per-signal versions — the same intersection reimagined four different ways.
+
+</td>
+<td width="50%" valign="top">
+
+**📷 Raspberry Pi Camera Guide**  
+A beginner-friendly repo untangling the Pi 3 vs 4 vs 5 camera differences, paired with sensor-and-LED starter examples for people just getting off the ground with a Pi.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>Full source, docs, and more on each repo above — 📍 Odisha, India</sub>
+</div>
 
 ---
 
@@ -138,3 +207,6 @@ working across bare-metal C to high-level Python, React, and everything in betwe
 <div align="center"> 
   
 <img width="372" height="297" alt="image" src="https://github.com/user-attachments/assets/6fef5e15-3f54-4633-8131-3dfab0baef7e" />
+
+</div>
+
