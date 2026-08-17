@@ -11,7 +11,6 @@
 
 ---
 
-<img align="right" width="320" src="https://github.com/user-attachments/assets/6fef5e15-3f54-4633-8131-3dfab0baef7e" style="border-radius: 8px; border: 1px solid #30363D; margin-left: 20px;" alt="Hardware Setup" />
 
 ### ■ EXECUTIVE SUMMARY
 
