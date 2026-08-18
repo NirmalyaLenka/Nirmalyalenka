@@ -1,90 +1,128 @@
+<div align="center">
+
 # Nirmalya Lenka
-**Embedded Systems & IoT Engineer**
 
-`> boot_sequence_initiated...`  
-`> hardware_modules_loaded: [ESP32, RaspberryPi, STM32H7, FPGA]`  
-`> software_stack_loaded: [Bare-Metal C, FreeRTOS, Python, React]`  
-`> network_status: Online & Open to remote collaboration`  
-`> location: Odisha, India`  
+### Embedded Systems & IoT Architect | Full Stack Developer
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+%7C+IoT+%7C+Sensor+Integration;C+%7C+C%2B%2B+%7C+Rust+%7C+Python+%7C+Go;ESP32+%7C+Arduino+%7C+Raspberry+Pi+%7C+Linux;Edge+AI+%7C+Computer+Vision+%7C+FPGA;Open+to+Remote+Collaboration)](https://git.io/typing-svg)
 
-### System Bio
+<br/>
 
-```c
-#include <stdint.h>
-#include <stdbool.h>
+[![GitHub followers](https://img.shields.io/github/followers/NirmalyaLenka?style=for-the-badge&color=00D9FF&labelColor=1A1B27&label=followers)](https://github.com/NirmalyaLenka)
+[![Profile Views](https://komarev.com/ghpvc/?username=NirmalyaLenka&style=for-the-badge&color=BB9AF7&label=profile+views&labelColor=1A1B27)](https://github.com/NirmalyaLenka)
 
-struct Profile {
-    const char* role;
-    const char* focus;
-    bool building_hardware;
-};
+</div>
 
-struct Profile nirmalya = {
-    .role = "Embedded Software Engineer",
-    .focus = "RTOS, Edge AI, Sensor Data Fusion, Bare-metal C",
-    .building_hardware = true
-};
-```
+<br/>
 
----
+### About Me
 
-### Technical Specifications
+Building robust architectures that bridge software logic and physical hardware.  
+Focused on low-level embedded systems, IoT architectures, edge AI inference, and real-time sensor integration. I work across the entire stack—from bare-metal C on microcontrollers to high-level React and Python backends.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Microcontrollers** | ESP32, ESP8266, Raspberry Pi (3/4/5), STM32H7, Arduino, FPGA |
-| **Firmware & Software** | C, C++, Rust, Python, Go, JavaScript/TypeScript |
-| **Protocols & RF** | I2C, SPI, UART, MQTT, ESP-NOW, BLE, 2.4GHz RF |
-| **Sensors & Actuators** | Capacitive Matrices, Load Cells, ADXL345, MFRC522, LDR, VL53L0X |
-| **Backend & Edge AI** | Node.js, React, OpenCV, Edge Inference, Firebase, MongoDB |
+• **Embedded Systems:** Bare-metal programming, RTOS, microcontroller firmware  
+• **IoT & Edge Computing:** MQTT, Wi-Fi, BLE, Edge AI (FPGA), edge telemetry  
+• **Hardware Integration:** I2C, SPI, UART, capacitive sensing, RF interception  
+• **Full Stack & Backend:** React, Node.js, Python, MongoDB, Firebase  
+• **Location:** Cuttack, Odisha, India (Open to remote collaboration)
 
----
+<br/>
 
-### Hardware Architectures & Deployments
+### Languages & Technologies
 
-**1. Smart Pressure Ulcer Prevention System**  
-* **Core Stack:** `FPGA` | `STM32H7` | `FreeRTOS` | `Edge AI`  
-* Closed-loop medical IoT architecture. Uses a custom-built dense capacitive sensor mat and offloads edge inference to an FPGA to autonomously mitigate bedsores for bedridden hospital patients in real time.  
+<div align="center">
 
-**2. 2.4GHz RF Interceptor & Signal Scanner**  
-* **Core Stack:** `ESP32` | `nRF24L01` | `SSD1306 OLED` | `Bare-metal C++`  
-* Custom hardware diagnostics tool. Sweeps 128 channels in the 2.4 GHz band to intercept wireless network traffic, map RF density, and visualize packet-level interference directly on a localized hardware display.  
+[![Skills](https://skillicons.dev/icons?i=c,cpp,rust,python,java,js,go,ts&theme=dark)](https://skillicons.dev)  
+<br/>
+[![Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,arduino,raspberrypi,linux,bash&theme=dark)](https://skillicons.dev)
 
-**3. AI Refrigerator Inventory System**  
-* **Core Stack:** `Raspberry Pi` | `ESP32` | `Load Cells` | `OpenCV`  
-* Predictive inventory management system integrating camera-based item identification with precision weight sensors to track food supply, predict expiration dates, and sync dynamic data pipelines.  
+</div>
 
-**4. Wireless Solar Farm Monitor (SolarGuard Pro)**  
-* **Core Stack:** `ESP32` | `ESP-NOW` | `Multi-sensor fusion`  
-* Fully local, peer-to-peer telemetry system. Bypasses cloud dependency utilizing raw ESP-NOW communication to monitor multi-sensor solar arrays, displaying real-time metrics on a UI-navigable OLED dashboard.  
+<br/>
 
-**5. AccidentGuard Telemetry Module**  
-* **Core Stack:** `ESP32` | `ADXL345 Accelerometer` | `NEO-6M GPS`  
-* Autonomous vehicular and wearable safety module. Detects impact anomalies, triangulates real-time spatial coordinates, and fires automated distress protocols over wireless networks if the user is incapacitated.  
+### Featured Engineering Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Telemetry & Logs
+**Smart Pressure Ulcer Prevention System**  
+A real-time, closed-loop IoT system designed for hospitals. Predicts and prevents bedsores using a dense capacitive sensor mat, edge AI inference running on an FPGA, and autonomous physical adjustments.
 
-<p align="center">
-  <a href="https://github.com/NirmalyaLenka">
-    <img src="https://github-readme-stats.vercel.app/api?username=NirmalyaLenka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/NirmalyaLenka">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalyaLenka&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Top Languages" />
-  </a>
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/NirmalyaLenka">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirmalyaLenka&bg_color=1a1b27&color=7aa2f7&line=9ece6a&point=e0af68&area=true&hide_border=true&radius=4" width="100%" alt="Activity Graph" />
-  </a>
-</p>
+**AI Refrigerator Inventory System**  
+Computer vision-powered smart refrigerator management system. Integrates camera item identification and load cell weight sensors via ESP32/Raspberry Pi to predict expiry dates, generate auto-shopping lists, and reduce food waste.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Network Interfaces
+**Wireless Signal Scanner & RF Interceptor**  
+A 2.4 GHz RF channel scanner and packet sniffer built with an ESP32, nRF24L01 radio module, and SSD1306 OLED. Sweeps all 128 channels in the 2.4 GHz band to visualize wireless network traffic and interference at the packet level.
 
-[GitHub](https://github.com/NirmalyaLenka) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/carmod-bhai-3b358b358/) &nbsp;|&nbsp; [Email](mailto:carmodbhai@gmail.com) &nbsp;|&nbsp; [WhatsApp](https://wa.me/919692005585) &nbsp;|&nbsp; [ORCID](https://orcid.org/0009-0006-2438-3319)
+</td>
+<td width="50%" valign="top">
+
+**AccidentGuard**  
+An autonomous vehicle safety device utilizing an ESP32 and ADXL345 accelerometer. Automatically detects severe impacts, tracks real-time location via a NEO-6M GPS module, and initiates emergency distress calls if the user is unresponsive.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**ESP32 OTA Power Monitor**  
+Real-time voltage and current monitoring system with Over-The-Air (OTA) update capabilities. Features short-circuit detection, live SSD1306 OLED readouts, and serves a continuous telemetry dashboard over a local Wi-Fi network.
+
+</td>
+<td width="50%" valign="top">
+
+**SolarGuard Pro Wireless Monitor**  
+A comprehensive, open-source wireless solar panel monitoring system. Operates via raw peer-to-peer ESP-NOW telemetry (no cloud required) with multi-sensor data fusion, configurable alerts, and a 3-button navigated OLED interface.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### Activity & Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NirmalyaLenka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalyaLenka&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<br/><br/>
+
+[![Nirmalya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NirmalyaLenka&bg_color=1a1b27&color=7aa2f7&line=9ece6a&point=e0af68&area=true&hide_border=true&radius=4)](https://github.com/NirmalyaLenka)
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=NirmalyaLenka&hide_border=true&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+### Contact & Connections
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmod-bhai-3b358b358/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carmodbhai@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919692005585)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-2438-3319)
+
+<br/>
+<br/>
+
+<img width="400" alt="Hardware Setup" src="https://github.com/user-attachments/assets/6fef5e15-3f54-4633-8131-3dfab0baef7e" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
+
+<br/>
+<sub>Odisha, India // Open to remote collaboration</sub>
+</div>
