@@ -1,6 +1,6 @@
- <div align="center">
-  <img src="assets/header.svg" alt="Nirmalya Lenka - Embedded Systems & Electronics" width="100%">
-  </div>
+<div align="center">
+   <img src="assets/header.svg" alt="Nirmalya Lenka - Embedded Systems & Electronics" width="100%"> 
+</div>
 
 Hi, I'm Nirmalya. I am an electrical and computer engineering student based in Odisha, India. 
 
