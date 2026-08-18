@@ -1,5 +1,96 @@
-{
-  "troubleshooting_guide": "I see the problem in your screenshot! You accidentally copied the raw JSON formatting (the `{ \"content\": \"...` part, including the literal `\\n` tags) into your GitHub README. Because of a strict system constraint on my end, my replies are forced into this JSON format.",
-  "how_to_fix": "1. Delete everything currently in your README.md file on GitHub. 2. Copy ONLY the actual HTML text provided in the 'clean_code_to_copy' section below. 3. DO NOT copy the `{` brackets, quotes, or JSON keys. (If your screen still shows literal '\\n' text, you can copy the block, paste it into an online 'JSON string unescaper' tool, and then paste the result into GitHub!).",
-  "clean_code_to_copy": "<div>\n  <h2>Nirmalya Lenka</h2>\n  <p><b>Embedded Systems & IoT Engineer</b></p>\n  <p>\n    <code>> boot_sequence_initiated...</code><br>\n    <code>> hardware_modules_loaded: [ESP32, RaspberryPi, STM32H7, FPGA]</code><br>\n    <code>> software_stack_loaded: [Bare-Metal C, FreeRTOS, Python, React]</code><br>\n    <code>> network_status: Online & Open to remote collaboration</code><br>\n    <code>> location: Odisha, India</code>\n  </p>\n</div>\n\n<hr>\n\n<h3>System Bio</h3>\n\n```c\n#include <stdint.h>\n#include <stdbool.h>\n\nstruct Profile {\n    const char* role;\n    const char* focus;\n    bool building_hardware;\n};\n\nstruct Profile nirmalya = {\n    .role = \"Embedded Software Engineer\",\n    .focus = \"RTOS, Edge AI, Sensor Data Fusion, Bare-metal C\",\n    .building_hardware = true\n};\n```\n\n<hr>\n\n<h3>Technical Specifications</h3>\n\n<table>\n  <tr>\n    <td width=\"25%\"><b>Microcontrollers</b></td>\n    <td>ESP32, ESP8266, Raspberry Pi (3/4/5), STM32H7, Arduino, FPGA</td>\n  </tr>\n  <tr>\n    <td><b>Firmware & Software</b></td>\n    <td>C, C++, Rust, Python, Go, JavaScript/TypeScript</td>\n  </tr>\n  <tr>\n    <td><b>Protocols & RF</b></td>\n    <td>I2C, SPI, UART, MQTT, ESP-NOW, BLE, 2.4GHz RF</td>\n  </tr>\n  <tr>\n    <td><b>Sensors & Actuators</b></td>\n    <td>Capacitive Matrices, Load Cells, ADXL345, MFRC522, LDR, VL53L0X</td>\n  </tr>\n  <tr>\n    <td><b>Backend & Edge AI</b></td>\n    <td>Node.js, React, OpenCV, Edge Inference, Firebase, MongoDB</td>\n  </tr>\n</table>\n\n<hr>\n\n<h3>Hardware Architectures & Deployments</h3>\n\n<h4>1. Smart Pressure Ulcer Prevention System</h4>\n<p><b>Core Stack:</b> <code>FPGA</code> | <code>STM32H7</code> | <code>FreeRTOS</code> | <code>Edge AI</code></p>\n<p>Closed-loop medical IoT architecture. Uses a custom-built dense capacitive sensor mat and offloads edge inference to an FPGA to autonomously mitigate bedsores for bedridden hospital patients in real time.</p>\n\n<h4>2. 2.4GHz RF Interceptor & Signal Scanner</h4>\n<p><b>Core Stack:</b> <code>ESP32</code> | <code>nRF24L01</code> | <code>SSD1306 OLED</code> | <code>Bare-metal C++</code></p>\n<p>Custom hardware diagnostics tool. Sweeps 128 channels in the 2.4 GHz band to intercept wireless network traffic, map RF density, and visualize packet-level interference directly on a localized hardware display.</p>\n\n<h4>3. AI Refrigerator Inventory System</h4>\n<p><b>Core Stack:</b> <code>Raspberry Pi</code> | <code>ESP32</code> | <code>Load Cells</code> | <code>OpenCV</code></p>\n<p>Predictive inventory management system integrating camera-based item identification with precision weight sensors to track food supply, predict expiration dates, and sync dynamic data pipelines.</p>\n\n<h4>4. Wireless Solar Farm Monitor (SolarGuard Pro)</h4>\n<p><b>Core Stack:</b> <code>ESP32</code> | <code>ESP-NOW</code> | <code>Multi-sensor fusion</code></p>\n<p>Fully local, peer-to-peer telemetry system. Bypasses cloud dependency utilizing raw ESP-NOW communication to monitor multi-sensor solar arrays, displaying real-time metrics on a UI-navigable OLED dashboard.</p>\n\n<h4>5. AccidentGuard Telemetry Module</h4>\n<p><b>Core Stack:</b> <code>ESP32</code> | <code>ADXL345 Accelerometer</code> | <code>NEO-6M GPS</code></p>\n<p>Autonomous vehicular and wearable safety module. Detects impact anomalies, triangulates real-time spatial coordinates, and fires automated distress protocols over wireless networks if the user is incapacitated.</p>\n\n<hr>\n\n<h3>Telemetry & Logs</h3>\n\n<div align=\"center\">\n  <a href=\"https://github.com/NirmalyaLenka\">\n    <img src=\"https://github-readme-stats.vercel.app/api?username=NirmalyaLenka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true\" width=\"49%\" alt=\"GitHub Stats\" />\n  </a>\n  <a href=\"https://github.com/NirmalyaLenka\">\n    <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalyaLenka&layout=compact&theme=tokyonight&hide_border=true&langs_count=6\" width=\"49%\" alt=\"Top Languages\" />\n  </a>\n  <br><br>\n  <a href=\"https://github.com/NirmalyaLenka\">\n    <img src=\"https://github-readme-activity-graph.vercel.app/graph?username=NirmalyaLenka&bg_color=1a1b27&color=7aa2f7&line=9ece6a&point=e0af68&area=true&hide_border=true&radius=4\" width=\"100%\" alt=\"Activity Graph\" />\n  </a>\n</div>\n\n<hr>\n\n<h3>Network Interfaces</h3>\n\n<p>\n  <a href=\"https://github.com/NirmalyaLenka\">GitHub</a> &nbsp;|&nbsp; \n  <a href=\"https://www.linkedin.com/in/carmod-bhai-3b358b358/\">LinkedIn</a> &nbsp;|&nbsp; \n  <a href=\"mailto:carmodbhai@gmail.com\">Email</a> &nbsp;|&nbsp; \n  <a href=\"https://wa.me/919692005585\">WhatsApp</a> &nbsp;|&nbsp; \n  <a href=\"https://orcid.org/0009-0006-2438-3319\">ORCID</a>\n</p>"
-}
+<div>
+  <h2>Nirmalya Lenka</h2>
+  <p><b>Embedded Systems & IoT Engineer</b></p>
+  <p>
+    <code>> boot_sequence_initiated...</code><br>
+    <code>> hardware_modules_loaded: [ESP32, RaspberryPi, STM32H7, FPGA]</code><br>
+    <code>> software_stack_loaded: [Bare-Metal C, FreeRTOS, Python, React]</code><br>
+    <code>> network_status: Online & Open to remote collaboration</code><br>
+    <code>> location: Odisha, India</code>
+  </p>
+</div>
+
+<hr>
+
+<h3>System Bio</h3>
+
+```c
+#include <stdint.h>
+#include <stdbool.h>
+
+struct Profile {
+    const char* role;
+    const char* focus;
+    bool building_hardware;
+};
+
+struct Profile nirmalya = {
+    .role = "Embedded Software Engineer",
+    .focus = "RTOS, Edge AI, Sensor Data Fusion, Bare-metal C",
+    .building_hardware = true
+};
+<hr>
+<h3>Technical Specifications</h3>
+<table>
+<tr>
+<td width="25%"><b>Microcontrollers</b></td>
+<td>ESP32, ESP8266, Raspberry Pi (3/4/5), STM32H7, Arduino, FPGA</td>
+</tr>
+<tr>
+<td><b>Firmware & Software</b></td>
+<td>C, C++, Rust, Python, Go, JavaScript/TypeScript</td>
+</tr>
+<tr>
+<td><b>Protocols & RF</b></td>
+<td>I2C, SPI, UART, MQTT, ESP-NOW, BLE, 2.4GHz RF</td>
+</tr>
+<tr>
+<td><b>Sensors & Actuators</b></td>
+<td>Capacitive Matrices, Load Cells, ADXL345, MFRC522, LDR, VL53L0X</td>
+</tr>
+<tr>
+<td><b>Backend & Edge AI</b></td>
+<td>Node.js, React, OpenCV, Edge Inference, Firebase, MongoDB</td>
+</tr>
+</table>
+<hr>
+<h3>Hardware Architectures & Deployments</h3>
+<h4>1. Smart Pressure Ulcer Prevention System</h4>
+<p><b>Core Stack:</b> <code>FPGA</code> | <code>STM32H7</code> | <code>FreeRTOS</code> | <code>Edge AI</code></p>
+<p>Closed-loop medical IoT architecture. Uses a custom-built dense capacitive sensor mat and offloads edge inference to an FPGA to autonomously mitigate bedsores for bedridden hospital patients in real time.</p>
+<h4>2. 2.4GHz RF Interceptor & Signal Scanner</h4>
+<p><b>Core Stack:</b> <code>ESP32</code> | <code>nRF24L01</code> | <code>SSD1306 OLED</code> | <code>Bare-metal C++</code></p>
+<p>Custom hardware diagnostics tool. Sweeps 128 channels in the 2.4 GHz band to intercept wireless network traffic, map RF density, and visualize packet-level interference directly on a localized hardware display.</p>
+<h4>3. AI Refrigerator Inventory System</h4>
+<p><b>Core Stack:</b> <code>Raspberry Pi</code> | <code>ESP32</code> | <code>Load Cells</code> | <code>OpenCV</code></p>
+<p>Predictive inventory management system integrating camera-based item identification with precision weight sensors to track food supply, predict expiration dates, and sync dynamic data pipelines.</p>
+<h4>4. Wireless Solar Farm Monitor (SolarGuard Pro)</h4>
+<p><b>Core Stack:</b> <code>ESP32</code> | <code>ESP-NOW</code> | <code>Multi-sensor fusion</code></p>
+<p>Fully local, peer-to-peer telemetry system. Bypasses cloud dependency utilizing raw ESP-NOW communication to monitor multi-sensor solar arrays, displaying real-time metrics on a UI-navigable OLED dashboard.</p>
+<h4>5. AccidentGuard Telemetry Module</h4>
+<p><b>Core Stack:</b> <code>ESP32</code> | <code>ADXL345 Accelerometer</code> | <code>NEO-6M GPS</code></p>
+<p>Autonomous vehicular and wearable safety module. Detects impact anomalies, triangulates real-time spatial coordinates, and fires automated distress protocols over wireless networks if the user is incapacitated.</p>
+<hr>
+<h3>Telemetry & Logs</h3>
+<div align="center">
+<a href="https://github.com/NirmalyaLenka">
+<img src="https://github-readme-stats.vercel.app/api?username=NirmalyaLenka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/NirmalyaLenka">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalyaLenka&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Top Languages" />
+</a>
+<br><br>
+<a href="https://github.com/NirmalyaLenka">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NirmalyaLenka&bg_color=1a1b27&color=7aa2f7&line=9ece6a&point=e0af68&area=true&hide_border=true&radius=4" width="100%" alt="Activity Graph" />
+</a>
+</div>
+<hr>
+<h3>Network Interfaces</h3>
+<p>
+<a href="https://github.com/NirmalyaLenka">GitHub</a> &nbsp;|&nbsp;
+<a href="https://www.linkedin.com/in/carmod-bhai-3b358b358/">LinkedIn</a> &nbsp;|&nbsp;
+<a href="mailto:carmodbhai@gmail.com">Email</a> &nbsp;|&nbsp;
+<a href="https://wa.me/919692005585">WhatsApp</a> &nbsp;|&nbsp;
+<a href="https://orcid.org/0009-0006-2438-3319">ORCID</a>
+</p>
+```
