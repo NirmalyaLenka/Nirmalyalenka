@@ -1,106 +1,148 @@
 <div align="center">
-   <img src="assets/header.svg" alt="Nirmalya Lenka - Embedded Systems & Electronics" width="100%"> 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Nirmalya%20Lenka&fontSize=48&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Sensor%20Integration&descAlignY=58&descSize=18&descColor=BB9AF7" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Embedded+Systems+%7C+IoT+%7C+Sensor+Integration;C+%7C+C%2B%2B+%7C+Rust+%7C+Python+%7C+Go;ESP32+%7C+Arduino+%7C+Raspberry+Pi+%7C+Linux;FPGA+%7C+Edge+AI+%7C+RTOS;Open+to+Remote+Collaboration)](https://git.io/typing-svg)
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/NirmalyaLenka?style=for-the-badge&color=00D9FF&labelColor=1A1A2E&label=Followers)](https://github.com/NirmalyaLenka)
+[![Profile Views](https://komarev.com/ghpvc/?username=NirmalyaLenka&style=for-the-badge&color=FF2975&labelColor=1A1A2E&label=Profile+Views)](https://github.com/NirmalyaLenka)
+
 </div>
 
-Hi, I'm Nirmalya. I am an electrical and computer engineering student based in Odisha, India. 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
 
-Most of my projects start with a microcontroller, a sensor, and a physical problem that needs to be solved. I spend my time building embedded systems primarily around ESP32, ESP8266, and Arduino platforms. Whether it's wiring up I2C displays, pulling telemetry from accelerometers, or writing firmware to handle wireless communication, I prefer working as close to the hardware as possible. 
+## About
 
-While I occasionally build web dashboards to visualize my telemetry data, the core of my work is always the physical electronics and the code that runs on it.
+Building things that bridge software and the physical world — bare-metal firmware, real-time sensor fusion, and IoT systems that talk to the world without needing the cloud to hold their hand.
 
----
+- **Embedded Systems** — bare-metal C/C++, RTOS, microcontroller firmware
+- **IoT** — MQTT, Wi-Fi, BLE, ESP-NOW, edge computing
+- **Sensor Integration** — I2C, SPI, UART communication stacks
+- **Web & Backend** — React, Node.js, MongoDB, Firebase
+- **Location** — Odisha, India, open to remote collaboration
 
-### 🛠️ What I Work With
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
 
-**Microcontrollers & Boards:**  
-ESP32, ESP8266, Arduino Uno/Nano, Raspberry Pi, basic STM32.
+## Languages & Tools
 
-**Embedded Communication:**  
-I2C, SPI, UART, ESP-NOW, Wi-Fi, basic BLE.
+<div align="center">
 
-**Sensors & Modules:**  
-Accelerometers (ADXL345), GPS (NEO-6M), RFID (MFRC522), Barometric (BMP180), nRF24L01 transceivers, Load cells.
+[![Skills](https://skillicons.dev/icons?i=c,cpp,rust,python,java,js,go&theme=dark)](https://skillicons.dev)
 
-**Displays & Actuators:**  
-SSD1306 OLEDs, LCDs, DC Motors, Relays, PWM Controllers, MOSFETs (IRLZ44N).
+[![Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,jest,arduino,raspberrypi,linux&theme=dark)](https://skillicons.dev)
 
-**Languages & Tools:**  
-C, C++, Basic Python, Arduino IDE, VS Code, Git.
+</div>
 
----
+<table>
+<tr><td><b>Languages</b></td><td><code>C</code> <code>C++</code> <code>Rust</code> <code>Python</code> <code>Java</code> <code>JavaScript</code> <code>Go</code></td></tr>
+<tr><td><b>Frontend</b></td><td><code>React</code> <code>CSS</code></td></tr>
+<tr><td><b>Backend</b></td><td><code>Node.js</code> <code>Express</code></td></tr>
+<tr><td><b>Databases</b></td><td><code>MongoDB</code> <code>Firebase</code></td></tr>
+<tr><td><b>Testing</b></td><td><code>Jest</code></td></tr>
+<tr><td><b>Platforms</b></td><td><code>ESP32</code> <code>Arduino</code> <code>Raspberry Pi</code> <code>Linux</code></td></tr>
+<tr><td><b>Protocols</b></td><td><code>I2C</code> <code>SPI</code> <code>UART</code> <code>MQTT</code> <code>Wi-Fi</code> <code>BLE</code></td></tr>
+<tr><td><b>CS Core</b></td><td><code>DAA</code> <code>DBMS</code> <code>Data Structures</code></td></tr>
+<tr><td><b>Other</b></td><td><code>VLSI</code> <code>Data Analytics</code> <code>AI / ML</code></td></tr>
+</table>
 
-### 🔬 Featured Engineering Projects
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
 
-<table border="0" width="100%">
+## Featured Builds
+
+<div align="center"><sub>The six hardest and most complete systems in the repo list — picked for technical depth, not novelty.</sub></div>
+<br/>
+
+<table>
 <tr>
 <td width="50%" valign="top">
-  <h4>Wireless Solar Farm Monitor</h4>
-  <p>A peer-to-peer telemetry system for solar panels. Instead of relying on an internet cloud server, it uses raw ESP-NOW communication to transmit multi-sensor data directly between ESP32 modules. Features a localized OLED interface with physical button navigation.</p>
-  <p><code>ESP32</code> · <code>ESP-NOW</code> · <code>Sensor Fusion</code> · <code>C++</code></p>
-  <a href="https://github.com/NirmalyaLenka/-SolarGuard-Pro-Wireless-Solar-Farm-Monitor">View Repository →</a>
+
+### [Smart Pressure-Ulcer Prevention System](https://github.com/NirmalyaLenka/Smart-Pressure-Ulcer-Prevention-System)
+The most architecturally ambitious build in the list. A closed-loop clinical IoT system predicting and preventing bedsores in bedridden patients — dense capacitive sensor mat, FPGA-based edge AI inference, and an STM32H7 running FreeRTOS underneath an animated web dashboard.
+
+`FPGA` `STM32H7` `FreeRTOS` `Edge AI`
+
 </td>
 <td width="50%" valign="top">
-  <h4>AccidentGuard Telemetry Module</h4>
-  <p>A vehicular safety device designed to detect physical impacts. It monitors an ADXL345 accelerometer for sudden G-force spikes, pulls live location coordinates from a NEO-6M GPS, and triggers emergency alerts over a wireless network.</p>
-  <p><code>ESP32</code> · <code>ADXL345</code> · <code>NEO-6M GPS</code> · <code>C++</code></p>
-  <a href="https://github.com/NirmalyaLenka/AccidentGuard">View Repository →</a>
+
+### [SolarGuard Pro — Wireless Solar Farm Monitor](https://github.com/NirmalyaLenka/-SolarGuard-Pro-Wireless-Solar-Farm-Monitor)
+Two ESP32s talking peer-to-peer over ESP-NOW, five sensors deep, driving eleven OLED screens like a rotating control-room dashboard. No Wi-Fi, no cloud — pure mesh telemetry.
+
+`ESP32` `ESP-NOW` `Multi-sensor` `OLED`
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <h4>ESP8266 Smart IoT Watch</h4>
-  <p>A custom-built smart clock powered by a bare ESP8266 module. It connects to Wi-Fi to sync with an NTP server, pulls real-time weather via a REST API, and fetches mobile notifications over a local network, displaying everything on a 0.96-inch OLED.</p>
-  <p><code>ESP8266</code> · <code>OLED</code> · <code>Wi-Fi</code> · <code>REST API</code></p>
-  <a href="https://github.com/NirmalyaLenka/esp8266-watch">View Repository →</a>
+
+### [AI Refrigerator Inventory System](https://github.com/NirmalyaLenka/AI-Refrigerator-Inventory-System)
+A camera and weight-sensor driven inventory system for reducing food waste — identifies items, predicts expiry, and auto-generates shopping lists, running across ESP32 and Raspberry Pi.
+
+`Computer Vision` `ESP32` `Raspberry Pi` `Predictive AI`
+
 </td>
 <td width="50%" valign="top">
-  <h4>2.4GHz Wireless Signal Scanner</h4>
-  <p>A hardware diagnostics tool that sweeps 128 channels in the 2.4 GHz band. Built with an nRF24L01 radio module and an ESP32 to visualize local wireless network density and packet interference on an attached screen.</p>
-  <p><code>ESP32</code> · <code>nRF24L01</code> · <code>SPI</code> · <code>C++</code></p>
-  <a href="https://github.com/NirmalyaLenka/Wireless-Signal-Scanner">View Repository →</a>
+
+### [AccidentGuard](https://github.com/NirmalyaLenka/AccidentGuard)
+A wearable that detects vehicle or personal accidents automatically, tracks location via GPS, and calls for help if you don't respond — built on ESP32, ADXL345 accelerometer, and a NEO-6M GPS module.
+
+`ESP32` `ADXL345` `GPS` `Safety`
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <h4>Bluetooth Joystick Remote</h4>
-  <p>A wireless PowerPoint presentation remote built from an ESP32-WROOM-32 and a 2-axis analog joystick. It pairs directly with Windows as a standard Bluetooth Human Interface Device (HID)—requiring no companion app on the PC.</p>
-  <p><code>ESP32</code> · <code>Bluetooth HID</code> · <code>Analog Inputs</code> · <code>C++</code></p>
-  <a href="https://github.com/NirmalyaLenka/Presentation-joy-stick-using-esp32">View Repository →</a>
+
+### [RF Interceptor — 2.4GHz Packet Sniffer](https://github.com/NirmalyaLenka/RF-Interceptor---2.4GHz-Packet-Sniffer)
+A protocol-level teaching build for understanding wireless communication at the packet layer — sniffing and decoding traffic across the 2.4GHz band.
+
+`RF` `Packet Analysis` `Wireless Protocols`
+
 </td>
 <td width="50%" valign="top">
-  <h4>RFID Motor Access Control</h4>
-  <p>A physical security gate controller. Uses an MFRC522 reader via SPI to scan RFID tags, processes the access logic on the microcontroller, and drives a physical DC motor gate via an L298N motor driver.</p>
-  <p><code>Arduino/ESP</code> · <code>MFRC522</code> · <code>L298N</code> · <code>C++</code></p>
-  <a href="https://github.com/NirmalyaLenka/rfid-access-control">View Repository →</a>
+
+### [AutoAttend — ESP32 RFID Attendance](https://github.com/NirmalyaLenka/-AutoAttend-ESP32-RFID-Automatic-Attendance-System)
+A full automatic attendance pipeline — students tap an RFID card at the door, the system logs entry and exit timestamps and calculates attendance, all on an ESP32 with an MFRC522 reader.
+
+`ESP32` `MFRC522` `RFID` `Automation`
+
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
 
-### ⚙️ Areas of Work
+## GitHub Stats
 
-*   **Microcontroller Firmware:** Writing bare-metal and Arduino-core logic for localized hardware control.
-*   **Sensor Interfacing:** Reading, filtering, and calibrating analog/digital signals via I2C, SPI, and UART.
-*   **Wireless Communication:** Transmitting telemetry data using Wi-Fi, ESP-NOW, and basic RF transceiver modules.
-*   **Hardware Automation:** Controlling motors, cooling fans, and relays based on physical sensor thresholds (e.g., MOSFET PWM control).
-*   **IoT Telemetry:** Building lightweight local web servers on microcontrollers to monitor system status.
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NirmalyaLenka&show_icons=true&theme=synthwave&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalyaLenka&layout=compact&theme=synthwave&hide_border=true&langs_count=6"/>
 
-### 📊 GitHub Activity
+<img src="https://streak-stats.demolab.com?user=NirmalyaLenka&hide_border=true&background=1A1A2E&stroke=2D2B55&ring=00D9FF&fire=FF2975&currStreakLabel=00D9FF&sideLabels=BB9AF7&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=BB9AF7"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NirmalyaLenka&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalyaLenka&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF" width="48%" alt="Top Languages" />
-</p>
+</div>
 
----
+## Activity Graph
 
-### 📬 Network & Contact
+<div align="center">
 
-<a href="https://github.com/NirmalyaLenka">GitHub</a> &nbsp;|&nbsp; 
-<a href="https://www.linkedin.com/in/carmod-bhai-3b358b358/">LinkedIn</a> &nbsp;|&nbsp; 
-<a href="mailto:carmodbhai@gmail.com">Email</a> &nbsp;|&nbsp; 
-<a href="https://wa.me/919692005585">WhatsApp</a> &nbsp;|&nbsp; 
-<a href="https://orcid.org/0009-0006-2438-3319">ORCID</a>
+[![Nirmalya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NirmalyaLenka&bg_color=1a1a2e&color=00d9ff&line=ff2975&point=00d9ff&area=true&area_color=2d2b55&hide_border=true&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
+
+## Contact
+
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919692005585)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carmodbhai@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apex_nirmalya46/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmod-bhai-3b358b358/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
