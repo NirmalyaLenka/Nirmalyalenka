@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Nirmalya%20Lenka&fontSize=48&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Sensor%20Integration&descAlignY=58&descSize=18&descColor=BB9AF7" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Embedded+Systems+%7C+IoT+%7C+Sensor+Integration;C+%7C+C%2B%2B+%7C+Rust+%7C+Python+%7C+Go;ESP32+%7C+Arduino+%7C+Raspberry+Pi+%7C+Linux;FPGA+%7C+Edge+AI+%7C+RTOS;Open+to+Remote+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Embedded+Systems+%7C+IoT+%7C+SensorIntegration;C+%7C+C%2B%2B+%7C+Rust+%7C+Python+%7C+Go;ESP32+%7C+Arduino+%7C+Raspberry+Pi+%7C+Linux;FPGA+%7C+Edge+AI+%7C+RTOS;Open+to+Remote+Collaboration)](https://git.io/typing-svg)
 
 <br/>
 
