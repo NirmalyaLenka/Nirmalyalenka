@@ -60,7 +60,7 @@ This profile repository currently contains only this `README.md`. The previous v
 
 ## Maintenance & audit
 
-- **Last updated:** 10 November 2026
+- **Last updated:** 11 November 2026
 - **Review scope:** Checked profile README references against the tracked repository root and reviewed project links and technology claims.
 - **Changes:** Replaced the image-heavy layout with a lightweight profile page, removed missing local asset references, added a concise project table, and clarified that listed technologies do not imply equal proficiency.
 - **Verification:** No application code exists in this profile repository to build or test. Project implementation status should be checked in each linked repository.
